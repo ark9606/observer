@@ -1,0 +1,17 @@
+{
+  "name": "observer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "observer-usage.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node observer-usage.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.6.6",
+    "ts-node": "^8.3.0"
+  }
+}
